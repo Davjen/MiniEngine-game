@@ -1,3 +1,5 @@
+
+##IT##
 MECCANICHE EXTRA
 VIDEO https://youtu.be/T_cdw6nGsdQ
 -Il player ha la possibilità di trasformarsi in cane premendo T e tornare umano premendo R, questo comporterà una modifica della grid su cui viene fatto il pathfinding.Alcune zone sono accessibili solo in versione cane. Inoltre la velocità del player cambia tra una forma e l'altra.
@@ -7,3 +9,8 @@ Se il player si trovasse in una zona non accessibile ad una delle forme e provas
 -Ogni scena ha la sua musica di sottofondo.
 -all'interno del dungeon se il player si trasfroma in cane può gettarsi in un buco che lo farà cadere su una zona non accessibile(a seguito di un'animazione per rendere verosibile la caduta)(tecnicamente la fine del gioco) triggerando inoltre un camera shake una volta atterrato sul posto .
 -La logica della porta (visibilmente)aperta per fare cambio di scena la si vede una volta dentro il dungeon (la porta è aperta e puoi uscire direttamente) per una scelta "stilistica" la porta della casetta non diventa "visibilmente" perchè non volevo legare il cambio texture ad un input ma volevo giocare sul cliccabile o meno.
+
+##EN##
+-Player can change his form into dog pressing T or Human pressing R. Being a dog let you walk on zone that are not accessible for human form(BUSHES and small Trees).If you are in a zone were you cannot be human you won't be able to turn back into human unless you go out.
+-Once you are in the Dog form inside bushes you can perform SEARCH pressing S.Player will start to search for a key(chance to drop).
+-Once you collect the key you can open the door of the house to end the demo.
