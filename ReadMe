@@ -1,0 +1,9 @@
+MECCANICHE EXTRA
+VIDEO https://youtu.be/T_cdw6nGsdQ
+-Il player ha la possibilità di trasformarsi in cane premendo T e tornare umano premendo R, questo comporterà una modifica della grid su cui viene fatto il pathfinding.Alcune zone sono accessibili solo in versione cane. Inoltre la velocità del player cambia tra una forma e l'altra.
+Se il player si trovasse in una zona non accessibile ad una delle forme e provasse a trasformarsi non sarebbe in grado.
+-Il player per trovare la chiave la deve cercare fra l'erba alta, per poterlo fare deve trasformarsi in cane. Una volta che si trova sull'erba alta (delimitata dagli arbusti) potrà premere S (fuori da quelle zone non succederà nulla). Verificherà i bordi "collidabili" e selezionerà random 4 nodi all'interno dell'area che ha verificato. Ogni volta che raggiungerà un nodo verrà tirato un dado che determinerà se la chiave è stata trovata o meno.La chiave ha un controllo in fase di spawn che eviterà che spawni sul player e/o sopra un tile non cliccabile quando eviterà il player ma si troverà sul bordo.
+-A chiave ottenuta la porta della casa diventerà cliccabile.Quando il player l'attraverserà triggererà il cambio scena con il suono dell'ingresso.
+-Ogni scena ha la sua musica di sottofondo.
+-all'interno del dungeon se il player si trasfroma in cane può gettarsi in un buco che lo farà cadere su una zona non accessibile(a seguito di un'animazione per rendere verosibile la caduta)(tecnicamente la fine del gioco) triggerando inoltre un camera shake una volta atterrato sul posto .
+-La logica della porta (visibilmente)aperta per fare cambio di scena la si vede una volta dentro il dungeon (la porta è aperta e puoi uscire direttamente) per una scelta "stilistica" la porta della casetta non diventa "visibilmente" perchè non volevo legare il cambio texture ad un input ma volevo giocare sul cliccabile o meno.
