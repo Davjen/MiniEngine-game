@@ -315,7 +315,7 @@ namespace ProgettoFinale
                     numberPicked = true;
                     Vector2 posCheck = Position + offSet;
 
-                    PlaySound("keyFound");
+                    //PlaySound("keyFound");
                     if (!worldGrid.CheckIfEmpty(posCheck))
                     {
                         //SAREBBE MEGLIO CHE UN MGR DI OGGETTI GESTISSE QUESTA COSA, MA HO UN SOLO OGGETTO. IDEM LA CLASSE ITEMS PROBABILMENTE DOVREBBE AVERE FIGLI "KEY" PIUTTOSTO CHE "ALTRO"

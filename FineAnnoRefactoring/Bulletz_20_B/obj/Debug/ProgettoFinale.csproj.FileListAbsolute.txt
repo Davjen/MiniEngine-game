@@ -207,3 +207,46 @@ D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Progett
 D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CopyComplete
 D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
 D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_blue.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_Red.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Fall01.wav
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Land01.wav
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Pickup01.wav
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\DoorOpen.wav
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\keyFound.wav
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\World.wav
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Cave.wav
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\comics.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\chest.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\skullKey.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkD.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkR.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkU.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogIdle.gif
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkD.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkR.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkU.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\TileMapCanari.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\InternoDungeon.tmx
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Scene2.tmx
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-audio.dll
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.dll
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.dll
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.dll
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.pdb
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.xml
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.xml
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.AssemblyReference.cache
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.SuggestedBindingRedirects.cache
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CoreCompileInputs.cache
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CopyComplete
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+D:\AIV\MiniEngine-game\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb

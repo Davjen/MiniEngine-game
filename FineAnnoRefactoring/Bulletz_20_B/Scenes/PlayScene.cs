@@ -309,7 +309,7 @@ namespace ProgettoFinale
                 }
                 player.IsActive = false;
 
-                bgSource.Stop();
+                //bgSource.Stop();
             }
             return base.OnExit();
         }

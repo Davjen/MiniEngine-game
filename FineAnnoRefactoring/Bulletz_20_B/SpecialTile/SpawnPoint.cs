@@ -36,7 +36,7 @@ namespace ProgettoFinale
                         owner.Player.Scale *= 0.9f;
                         if (owner.Player.Scale.Length <= 0.1f)
                         {
-                            source.Play(AudioMgr.GetClip("Fall"));
+                            //source.Play(AudioMgr.GetClip("Fall"));
                             owner.Player.Position = owner.portals["exit"].Position;
                             owner.Player.IsPorted = true;
                             owner.Player.Scale = Vector2.One;
@@ -45,7 +45,7 @@ namespace ProgettoFinale
                     }
                     if (use == "changeScene" && owner.Player.CanOpenDoor)
                     {
-                        source.Play(AudioMgr.GetClip("DoorOpen"));
+                        //source.Play(AudioMgr.GetClip("DoorOpen"));
                         changeScene = true;
                         if (owner.mainScene)
                         {//AGGIUSTO LA POSIZIONE DEL PLAYER QUANDO CAMBIO SCENA IN MODO DA NON AVERLO SOPRA IL TRIGGER DI CAMBIO SCENA.
