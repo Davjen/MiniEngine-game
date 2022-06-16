@@ -1,0 +1,209 @@
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Items\chest.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkD.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkR.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkU.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogIdle.gif
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkD.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkR.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkU.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\TileMapCanari.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\InternoDungeon.tmx
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CopyComplete
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\obj\Debug\ProgettoFinale.csprojAssemblyReference.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Scene2.tmx
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Arrow_blue.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Arrow_Red.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Items\skullKey.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\aiv-audio.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\NVorbis.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\NVorbis.xml
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\audio\Cave.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\audio\World.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\audio\DoorOpen.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\audio\keyFound.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\audio\Fall01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\audio\Land01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\audio\Pickup01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_blue.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_Red.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Fall01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Land01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Pickup01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\DoorOpen.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\keyFound.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\World.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Cave.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\chest.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\skullKey.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkD.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkR.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkU.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogIdle.gif
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkD.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkR.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkU.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\TileMapCanari.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\InternoDungeon.tmx
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Scene2.tmx
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-audio.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.xml
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csprojAssemblyReference.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CopyComplete
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_blue.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_Red.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Fall01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Land01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Pickup01.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\DoorOpen.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\keyFound.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\World.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Cave.wav
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\chest.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\skullKey.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkD.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkR.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkU.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogIdle.gif
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkD.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkR.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkU.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\TileMapCanari.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\InternoDungeon.tmx
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Scene2.tmx
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-audio.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.xml
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csprojAssemblyReference.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CopyComplete
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_blue.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_Red.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Fall01.wav
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Land01.wav
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Pickup01.wav
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\DoorOpen.wav
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\keyFound.wav
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\World.wav
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Cave.wav
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\chest.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\skullKey.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkD.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkR.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkU.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogIdle.gif
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkD.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkR.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkU.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\TileMapCanari.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\InternoDungeon.tmx
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Scene2.tmx
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-audio.dll
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.dll
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.dll
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.pdb
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.xml
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.AssemblyReference.cache
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.SuggestedBindingRedirects.cache
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CoreCompileInputs.cache
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CopyComplete
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_blue.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Arrow_Red.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Fall01.wav
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Land01.wav
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Pickup01.wav
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\DoorOpen.wav
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\keyFound.wav
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\World.wav
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\audio\Cave.wav
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\comics.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\chest.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Items\skullKey.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkD.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkR.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkU.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogIdle.gif
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkD.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkR.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkU.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\TileMapCanari.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\InternoDungeon.tmx
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Assets\Scene2.tmx
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-audio.dll
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.dll
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.dll
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.dll
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\Core.pdb
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\NVorbis.xml
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\bin\Debug\OpenTK.xml
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.AssemblyReference.cache
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.SuggestedBindingRedirects.cache
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CoreCompileInputs.cache
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\ProgettoFinale.csproj.CopyComplete
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+D:\AIV\Progetto Fine Anno Def\FineAnnoRefactoring\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb

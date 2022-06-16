@@ -1,0 +1,139 @@
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.csprojAssemblyReference.cache
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_0.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_1.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_2.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_3.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_sky.jpg
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\broccoli.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\greenGlobe.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\crate.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\earth.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\stone.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\player.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\sky.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.csproj.CopyComplete
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\chiro\source\repos\Bulletz_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_0.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_1.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_2.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_3.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\bg_sky.jpg
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\broccoli.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\greenGlobe.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\crate.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\earth.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\stone.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\player.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\sky.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.csprojAssemblyReference.cache
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.csproj.CopyComplete
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\Chirone\source\repos\Bulletz_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\crate.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\earth.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\stone.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.csprojAssemblyReference.cache
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.csproj.CopyComplete
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\enemy_0.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\enemy_3.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\fireball.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\heart.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\hex_grid_green.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\player_1.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\player_2.png
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Core.dll
+C:\Users\Chirone\source\repos\Heads_20_B\Bulletz_20_B\bin\Debug\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\enemy_0.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\enemy_3.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\fireball.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\heart.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\hex_grid_green.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\crate.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\earth.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\Levels\stone.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\player_1.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\player_2.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.csprojAssemblyReference.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.csproj.CopyComplete
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\Heads_20_B\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\obj\Debug\Bulletz_20_B.csprojAssemblyReference.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\obj\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\obj\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\comics.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Levels\crate.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Levels\earth.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Levels\stone.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\textSheet.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe.config
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Bulletz_20_B.exe
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Bulletz_20_B.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\aiv-fast2d.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\OpenTK.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\OpenTK.xml
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\obj\Debug\Bulletz_20_B.csproj.CopyComplete
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\TileMapCanari.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\InternoDungeon.tmx
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\HEROS_PixelPackTOPDOWN8BIT_Adventurer Idle R.gif
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkD.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkR.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PlayerAssets\WalkU.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkD.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkR.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogWalkU.png
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\PetAssets\DogIdle.gif
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\FineAnno\Bulletz_20_B\bin\Debug\Assets\Items\chest.png
