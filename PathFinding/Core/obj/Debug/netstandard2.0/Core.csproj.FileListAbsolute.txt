@@ -1,0 +1,44 @@
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\fdf82\OneDrive\shared-aiv\201910-csharp\lezione-20200227\PathFinding\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\PathFinding\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\PathFinding\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\PathFinding\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\PathFinding\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\PathFinding\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto fuzzy Logic+Pathfinding\PathFinding\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\PathFinding\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\PathFinding\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\PathFinding\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\PathFinding\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\PathFinding\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\lelem\OneDrive\Desktop\Progetto Fine Anno\PathFinding\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\lelem\Desktop\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.pdb
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\bin\Debug\netstandard2.0\Core.dll
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.dll
+D:\AIV\Progetto Fine Anno Def\PathFinding\Core\obj\Debug\netstandard2.0\Core.pdb
