@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AIV\\Progetto Fine Anno Def\\PathFinding\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\AIV\\MiniEngine-game\\PathFinding\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\AIV\\Progetto Fine Anno Def\\PathFinding\\Core\\Core.csproj",
+      "projectPath": "D:\\AIV\\MiniEngine-game\\PathFinding\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\lelem\\.nuget\\packages\\",
-      "outputPath": "D:\\AIV\\Progetto Fine Anno Def\\PathFinding\\Core\\obj\\",
+      "outputPath": "D:\\AIV\\MiniEngine-game\\PathFinding\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lelem\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UA5NM+SWiXety9VHLEFdxgTlpc3k36AhBWTU9UCQuWk1Kbho3XXBy4PE7JSv0xWhK/GPiYLcmIGS+u6/W4biFg==",
+  "dgSpecHash": "Ky9j3w1wcIkaYaej2+kIEM7hHiyM9J90qkxxynSxqE2bPCwJGN1OBYJGjOArPPxzSOpBime+qXEDcBMMqksc3Q==",
   "success": true,
-  "projectFilePath": "D:\\AIV\\Progetto Fine Anno Def\\PathFinding\\Core\\Core.csproj",
+  "projectFilePath": "D:\\AIV\\MiniEngine-game\\PathFinding\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lelem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lelem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
